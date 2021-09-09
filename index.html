@@ -1,45 +1,162 @@
 <!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
-    <header>
-        <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="table_style.css">
-        <title>Ian Castro</title>
-    </header>
-    <body>
-        <!---Navigation--->
-        <!--This section of code defines the navigation bar at the top of the page.  The classes used here are defined in the style.css file.-->
-        <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
-            <div class="container">
-                <!--This code defines the "My Webpage" link in the top left corner of the navigation pane-->
-                <a class="navbar-brand" href="./index.html">Home</a>
-                <!--This code defines the "List" link in the top right corner of the navigation pane-->
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="./list.html">List</a></li>
-                </ul>
-            </div>
-        </nav>
-        <!--This section defines the middle section of the webpage-->
-        <header class="masthead bg-primary text-white text-center">
-            <div class="container d-flex align-items-center flex-column">
+	<head>
+		<title>Ian Castro</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-                <!-- This code is for the student name-->
-                <h1 class="masthead-heading text-uppercase mb-0">Ian Castro</h1>
-                <!--This code creates the two lines separating the student name from the subtitle-->
-                <div class="divider-custom divider-light">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-line"></div>
-                </div>
-                <!--This code creates the subheading underneath the line dividers-->
-                <p class="masthead-subheading font-weight-light mb-0">Master of Information Management & Systems @ School of Information</p>
-            </div>
-        </header>
-        <center>
-            <br /><br />
-            <div class="col-md-6 col-lg-4 mb-5">
-                <!-- put your bio paragraph here; remember to use the correct html tags -->
-                <p><em>Hello!</em> My name is Ian Castro and I am a graduate student at the UC Berkeley School of Information, studying applied data science. I completed my undergraduate degree also at UC Berkeley, where I worked at the Division of Computing, Data Science, and Society, and majored in Media Studies and Microbial Biology. I'm particularly interested in accessible STEM education, and my background is in teaching and designing introductory computing courses.</p>
-            </div>
-        </center>
-    </body>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<h1>Ian Castro</h1>
+						<p>Master of Information Management & Systems @ UC Berkeley School of Information</p>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro" class="active">About Me</a></li>
+							<li><a href="#first">First Section</a></li>
+							<li><a href="#second">Second Section</a></li>
+							<li><a href="#cta">Get Started</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Introduction -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>About Me</h2>
+										</header>
+										<p><em>Hello!</em> My name is Ian Castro and I am a graduate student at the UC Berkeley School of Information, studying applied data science. I completed my undergraduate degree also at UC Berkeley, where I worked at the Division of Computing, Data Science, and Society, and majored in Media Studies and Microbial Biology. I'm particularly interested in accessible STEM education, and my background is in teaching and designing introductory computing courses.</p>
+									</div>
+									<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+								</div>
+							</section>
+
+						<!-- First Section -->
+							<section id="first" class="main special">
+								<header class="major">
+									<h2>My Interests</h2>
+								</header>
+								<ul class="features">
+									<li>
+										<span class="icon solid major style3 fa-code"></span>
+										<h3>Data Science</h3>
+										<p>Languages: Python (pandas, sklearn, numpy), R, SQL.</p>
+									</li>
+									<li>
+										<span class="icon solid major style4 fa-chalkboard"></span>
+										<h3>Teaching</h3>
+										<p>Introductory coding, statistics, and data ethics.</p>
+									</li>
+									<li>
+										<span class="icon solid major style5 fa-gavel"></span>
+										<h3>Policy</h3>
+										<p>Information & communications policy, First Amendment jurisprudence.</p>
+									</li>
+							</section>
+
+						<!-- Second Section -->
+							<section id="second" class="main special">
+								<header class="major">
+									<h2>Past Projects & Courses Taught</h2>
+									<p>Read about my personal and class projects below, as well as the classes I've taught!</p>
+								</header>
+								<ul class="statistics">
+									<li class="style1">
+										<span class="icon solid fa-code-branch"></span>
+										<strong>Data 8:</strong> Foundations of Data Science
+									</li>
+									<li class="style2">
+										<span class="icon solid fa-chart-bar"></span>
+										<strong>Data 6:</strong> Introduction to Computational Thinking with Data
+									</li>
+									<li class="style3">
+										<span class="icon solid fa-vote-yea"></span>
+										<strong>PS 106A: </strong> American Politics: Campaign Strategy - Media
+									</li>
+									<li class="style4">
+										<span class="icon solid fa-laptop"></span>
+										<strong>PS 3:</strong> Introduction to Empirical Analysis & Quantitative Methods
+									</li>
+									<li class="style5">
+										<span class="icon solid fa-table"></span>
+										<strong>Data Scholars</strong> Foundations Seminar
+									</li>
+								</ul>
+										<p> You can find a list of my relevant coursework and highlighted projects at the link below.
+										</p>
+								<footer class="major">
+									<ul class="actions special">
+										<li><a href="list.html" class="button primary">Coursework & Projects</a></li>
+									</ul>
+								</footer>
+							</section>
+
+						<!-- Get Started -->
+							<section id="cta" class="main special">
+								<header class="major">
+									<h2>Curriculum Vitae</h2>
+									<p>My curriculum vitae is below.</p>
+								</header>
+								<footer class="major">
+									<ul class="actions special">
+										<li><a href="https://drive.google.com/file/d/1JJ5W0hXpyaEMie10bts6dH09ZS1U1a8q/view?usp=sharing" class="button primary">CV</a></li>
+									</ul>
+								</footer>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<h2>Thanks for reading this!</h2>
+							<p>If you'd like to contact me about my work, job opportunities, access to materials to courses I've taught, or just to connect, feel free to reach out over email or Linkedin! The links are to your right.</p>
+						</section>
+						<section id = "mid">
+							<h2>Contact Me</h2>
+							<dl class="alt">
+								<dt>Email</dt>
+								<dd><a href="#">castro.ian (at) berkeley.edu</a></dd>
+								<dt>Phone</dt>
+								<dd>(510) 343-9153 </dd>
+							</dl>
+							<ul class="icons">
+								<li><a href="https://www.linkedin.com/in/ian-castro-75b69a140/" class="icon brands fa-linkedin alt"><span class="label">Linkedin</span></a></li>
+								<li><a href="https://github.com/castroian" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
+							</ul>
+						</section>
+						<p class="copyright">&copy; Ian Castro. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
