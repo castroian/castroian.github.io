@@ -1,8 +1,8 @@
 {
-	"Relevant Courses": [{
+	"relevant_courses": [{
 		"Number": "INFO 201",
 		"Title": "Research Design and Applications for Data and Analysis",
-		"Semester": "Fall 2021"
+		"Year": "Fall 2021"
 	},
 	{
 		"Number": "INFO 202",
