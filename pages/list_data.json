@@ -2,66 +2,66 @@
 	"Relevant Courses": [{
 		"Number": "INFO 201",
 		"Title": "Research Design and Applications for Data and Analysis",
-		"Semester": "Fall 2021",
+		"Semester": "Fall 2021"
 	},
 	{
 		"Number": "INFO 202",
 		"Title": "Information Organization and Retrieval",
-		"Semester": "Fall 2021",
+		"Semester": "Fall 2021"
 	},
 	{
 		"Number": "INFO 206B",
 		"Title": "Introduction to Data Structures and Analytics",
-		"Semester": "Fall 2021",
+		"Semester": "Fall 2021"
 	},
 	{
 		"Number": "INFO 256",
 		"Title": "Applied Natural Language Processing",
-		"Semester": "Fall 2021",
+		"Semester": "Fall 2021"
 	},
 	{
 		"Number": "INFO 271B",
 		"Title": "Quantitative Research Methods for Information Systems and Management",
-		"Semester": "Fall 2021",
+		"Semester": "Fall 2021"
 	},
 	{
 		"Number": "DATA 100",
 		"Title": "Principles & Techniques of Data Science",
-		"Semester": "Spring 2021",
+		"Semester": "Spring 2021"
 	},
 	{
 		"Number": "CS 61A",
 		"Title": "The Structure and Interpretation of Computer Programs",
-		"Semester": "Fall 2020",
+		"Semester": "Fall 2020"
 	},
 	{
 		"Number": "LEGAL STUDIES 190",
 		"Title": "Information, Media, and the Public Discourse",
-		"Semester": "Fall 2020",
+		"Semester": "Fall 2020"
 	},
 	{
 		"Number": "PSYCH 101",
 		"Title": "Research and Data Analysis in Psychology",
-		"Semester": "Fall 2020",
+		"Semester": "Fall 2020"
 	},
 	{
 		"Number": "POLITICAL SCIENCE 106A",
 		"Title": "American Politics: Campaign Strategy - Media",
-		"Semester": "Spring 2020",
+		"Semester": "Spring 2020"
 	},
 	{
 		"Number": "CS 375",
 		"Title": "Teaching Techniques for Computer Science",
-		"Semester": "Spring 2019",
+		"Semester": "Spring 2019"
 	},
 	{
 		"Number": "DEMOGRAPHY 88",
 		"Title": "Immigration: What do the data tell us?",
-		"Semester": "Fall 2017",
+		"Semester": "Fall 2017"
 	},
 	{
 		"Number": "CS C8",
 		"Title": "Foundations of Data Science",
-		"Semester": "Fall 2017",
+		"Semester": "Fall 2017"
 	}]
 }
