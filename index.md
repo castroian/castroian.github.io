@@ -3,7 +3,7 @@
 
 I am an **applied data scientist** with a focus in education and policy. My background is in STEM education and law, and I graduated in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley.
 
-I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at **castro.ian@berkeley.edu** or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
+I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at **[castro(dot)ian(at)berkeley(dot)edu](mailto:castro.ian@berkeley.edu)** or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
 
 ---
 ## My background
@@ -35,9 +35,12 @@ The following links are to papers and projects I'm particularly proud of.
 
 - The Effect of Academic Outreach Programs on the Performance and Science Identity of Underrepresented Minorities in Data Science ([Paper](https://drive.google.com/file/d/1gQYgFNEnu1BDVYzI6PGFwZUjjX2cIKmE/view?usp=sharing))
 
+- 2019 Teachers' Strike: The Struggle with Funding and Public Education in the City of Oakland ([Multimedia Project](https://castroian5.wixsite.com/oaklandteacherstrike))
 
 - 18s rDNA analysis reveals evidence for polyphyletic evolution of facultative heterotrophy in pennate diatoms *Nitzschia, Hantzschia,* and *Navicula* ([Paper](https://drive.google.com/file/d/1votZNNwSESaX1QlWmGQOr6X8YYn6w7cR/view?usp=sharing))
 
+
+- The Revolution will not be Televised, but Tweeted: Social Media's Effect on Citizen Journalism and Protest in the Arab Spring ([Paper](https://drive.google.com/file/d/1bpm4r5uyTsiyigHTqvnpco65wES5MBzN/view?usp=sharing))
 
 ### Invited Conferences
 
@@ -57,8 +60,10 @@ I strongly believe that education should be freely available; if you're interest
 
 ### As instructor
 
-- [Data 6: Introduction to Computational Thinking with Data](http://data6.org/su21/) (Summer 2021, Summer 2020 - in conjunction with the [SEED Scholars Honors Program](https://seedscholars.berkeley.edu/home))
+- [Data 6: Introduction to Computational Thinking with Data](http://data6.org/su21/) (Summer 2021, Summer 2020)
+  - Offered in conjunction with the [SEED Scholars Honors Program](https://seedscholars.berkeley.edu/home)
 - Information 290: Introduction to Data Science for Graduate Students (Spring 2021, Fall 2020, Spring 2020, Fall 2019)
+  - Offered in conjunction with [edX](https://data.berkeley.edu/data-8x)
 
 ### As teaching assistant
 
