@@ -5,7 +5,10 @@ I am an **applied data scientist** 📈 with a focus in education and policy. My
 
 I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at **[castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu)** or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
 
+
 ---
+
+
 ## About me 👋
 
 I am a first-generation Filipino 🇵🇭 college student born and raised in the East Bay Area. Growing up in a community heavily shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- have great possibilities for social mobility, but access to these STEM fields is particularly limited for students who are low-income, first-generation, or underrepresented. Most of my professional experience has been as an educator in this space, aiming to make key introductory courses more accessible for these groups and non-majors to build interest in these fields.
@@ -24,7 +27,9 @@ Outside of school, I'm interested in mycology, baseball (Go A's!), art (live mus
 
 Lastly, if you're interested in applying to graduate school, or speaking with me about any of these interests, let me know!
 
+
 ---
+
 
 ## Scholarship 📝
 
@@ -59,6 +64,8 @@ The following links are to papers and projects I'm particularly proud of. These 
 
 
 ---
+
+
 ## Teaching 📚
 
 I strongly believe that education should be freely available; if you're interested in any of my teaching materials or resources (slides, Jupyter notebooks, etc.), please reach out.
