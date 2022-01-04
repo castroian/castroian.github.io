@@ -62,7 +62,7 @@ The following links are to papers and projects I'm particularly proud of. These 
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Exploratory Data Analysis for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
 
-If you're interested in viewing the code, data, or other information, let me know!
+If you're interested in viewing the code, data, or other information for these projects, please contact me.
 
 ---
 
@@ -101,3 +101,12 @@ I strongly believe that education should be freely available; if you're interest
 ### For fun
 - [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar on data ethics and information policy
 - Workshops on [tea tasting](https://docs.google.com/presentation/d/1zB5ZYOwPb9OugZ1F2NrBPZ19EBOkYe9mRLoGgr6IJTs/edit?usp=sharing) and data science at [Splash! at Berkeley](https://berkeley.learningu.org/)
+
+
+---
+
+## Links
+
+- [Resume](https://drive.google.com/file/d/1BQC9QeK2rRJhuz2Jeq98z3aVS46tOFLw/view?usp=sharing)
+- [GitHub](https://github.com/castroian)
+- [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
