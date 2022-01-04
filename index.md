@@ -3,32 +3,32 @@
 
 I am an applied data scientist with a focus in education and policy. My background is in STEM education and law, and I graduated in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley.
 
-I am currently looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at castro.ian(at)berkeley.edu or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
+I am currently looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](castro.ian@berkeley.edu) or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
 
 
-## 🤷 What I do
+## What I do
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## 🦕 What I've done before
+## Selected Papers
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+### Data & Law
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
+### Media and Journalism
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
 
-## 👋🏻 Say hi
 
-Wanna chat? Feel free to reach out!
+## Teaching
+### As Instructor
+- Data 6: Introduction to Computational Thinking with Data (Summer 2021, Summer 2020)
+- Information 290: Introduction to Data Science for Graduate Students (Spring 2021, Fall 2020, Spring 2020, Fall 2019)
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
+### As Teaching Assistant
+- Psychology 101: Research and Data Analysis in Psychology (with Dr. Arman Catterson; Spring 2022)
+- Political Science 3: Introduction to Empirical Analysis & Quantitative Methods (with Dr. David Broockman; Fall 2021)
+- Data 8: Foundations of Data Science (with Drs. Ani Adhikari, John DeNero, David Wagner, Ramesh Sridharan, Swupnil Sahai; Spring 2021, Fall 2020, Spring 2020, Fall 2019, Spring 2019)
 
-## 📠 Fun facts
-
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+## As Tutor, Reader, and Other Roles
+- Molecular & Cell Biology C148: Microbial Genetics & Genomics (with Drs. Michi Taga and Adam Deutschbauer; Spring 2021)
+- Political Science 106A: American Politics - Campaign Strategy (with Dan Schnur; Fall 2020)
+- Data 8: Foundations of Data Science (with Drs. Ani Adhikari, David Wagner; Fall 2018, Spring 2018)
