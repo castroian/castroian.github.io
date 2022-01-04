@@ -1,6 +1,9 @@
 ---
 ---
 
+Hello! I am in the Master's of Information Management and Systems program at the UC Berkeley School of Information. My area of concentration is in applied data science, with a focus on education and policy. I graduated in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also at the University of California, Berkeley.
+
+
 ## 🤷 What I do
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
