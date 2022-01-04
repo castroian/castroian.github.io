@@ -8,6 +8,7 @@ I am looking for Summer 2022 internship roles in data science or data analytics.
 ---
 ## My background
 
+Being born and raised in the Bay Area, I'm interested in building
 1. Accessibility in data and computer science education
 1. Information policy (First and Fourth Amendment)
 asdf
