@@ -3,7 +3,7 @@
 
 I am an **applied data scientist** 📈 with a focus in education and policy. My background is in STEM education and information law, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley 🐻.
 
-I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
+I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 
 
 ---
@@ -11,9 +11,9 @@ I am looking for Summer 2022 internship roles in data science or data analytics.
 
 ## About me 👋
 
-I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for social mobility, but access to these STEM fields is particularly limited for students who are low-income, first-generation, or underrepresented. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and non-majors to build interest in CS/DS while also emphasizing the social impact of data and technology.
+I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for social mobility, but access to these STEM fields is particularly limited for students who are low-income, first-generation, or underrepresented. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and non-majors to help build interest in CS/DS while also emphasizing the social impact of data and technology.
 
-I am skilled at statistical analysis (research design, hypothesis testing, regression analysis), programming (Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and applied machine learning). I also have a strong background in communication, constitutional law, and policy research. You can see some of work I've done in the sections below.
+I am skilled at statistical analysis (research design, hypothesis testing, regression analysis), programming (algorithms and data structures in Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and applied machine learning). I also have a strong background in communication, constitutional law, and policy research. You can see some of work I've done in the sections below.
 
 My broad interests can be distilled into the three following areas:
 
@@ -21,7 +21,7 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data and computer science education 💻
 1. Information policy (privacy, freedom of speech, and freedom of press) ⚖️
 
-Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an overnight scholarship recruiting program for the UC Berkeley Financial Aid Office, and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
+Currently, I work as a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an [overnight scholarship recruiting program](https://rohp.berkeley.edu/) for the UC Berkeley Financial Aid & Scholarships Office, and taught at the [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
 
 Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas from every continent except Antarctica.
 
@@ -37,7 +37,7 @@ Lastly, if you're interested in applying to graduate school, or speaking with me
 
 The following links are to papers and projects I have authored and am particularly proud of. These papers include my many forays into fields including NLP, constitutional law, statistical analysis, biological research, and journalism.
 
-- A Topic Analysis of the Supreme Court of the United States' Views on Free Speech and the First Amendment ([Paper](https://drive.google.com/file/d/1WymAStgsM1_wx_AFZua8KMaoFoQmfeRl/view?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1edgeqrSJxEVk_LvL2ZnKop5Zn4jvxjaRQuGCP9p8MRI/edit?usp=sharing))
+- A Topic Analysis of the Supreme Court of the United States' Views on Free Speech and the First Amendment ([Paper](https://drive.google.com/file/d/1WymAStgsM1_wx_AFZua8KMaoFoQmfeRl/view?usp=sharing), [Slides](https://docs.google.com/presentation/d/1edgeqrSJxEVk_LvL2ZnKop5Zn4jvxjaRQuGCP9p8MRI/edit?usp=sharing))
 
 - A Man's Device is his Castle: Digital Information, Metadata, and the Fourth Amendment ([Paper](https://drive.google.com/file/d/1IXcbLmydJD7hZr2xmphZnzlIA1jM1Tgw/view?usp=sharing))
 
@@ -52,7 +52,7 @@ The following links are to papers and projects I have authored and am particular
 
 ### Invited Conferences
 
-- 2021 [Interdisciplinary Computing Summer Institute](https://www.sjsu.edu/icsi/) at San Jose State University ([Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
+- 2021 [Interdisciplinary Computing Summer Institute](https://www.sjsu.edu/icsi/) at San Jose State University ([Talk Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
 - 2021 National Workshop on Data Science Education at UC Berkeley ([Lab Demo](https://docs.google.com/presentation/d/1RMnwUpes2iaj9Q-nOx7pk-0FQRYi-IDnPhWab4yTF_Y/edit?usp=sharing))
 - 2020 Data Science for High School Computer Science Workshop at Cornell Tech ([White Paper](http://nebigdatahub.org/wp-content/uploads/2020/08/Data-Science-for-High-School-Computer-Science-Workshop.report.final3_.pdf))
 
@@ -61,8 +61,8 @@ The following links are to papers and projects I have authored and am particular
 
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Exploratory Data Analysis for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
-- Math & Physical Sciences Undergraduate Diversity, Equity, and Inclusion Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
-- A study guide for AP US History and introductory US History courses from 1491 to 2016 ([pdf](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
+- Math & Physical Sciences Undergraduate Diversity, Equity, Inclusion, and Advancement Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
+- Study guide for AP US History and Introduction to US History from 1491 to 2016 ([pdf](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
 
 If you're interested in viewing the code, data, or other information for these projects, please contact me.
 
@@ -84,7 +84,7 @@ If you're interested in viewing the code, data, or other information for these p
 - Political Science 3: Introduction to Empirical Analysis & Quantitative Methods (Fall 2021)
   - Instructor: Dr. David Broockman
 - [Data 8: Foundations of Data Science](http://data8.org/) (Spring 2021 - [Data Scholars](https://data.berkeley.edu/academics/resources/data-scholars), Fall 2020, Spring 2020, Fall 2019, Spring 2019)
-  - Instructors: Drs. Ani Adhikari, John DeNero, David Wagner, Ramesh Sridharan, Swupnil Sahai
+  - Instructors: Drs. Ani Adhikari, John DeNero, David Wagner, Will Fithian, Ramesh Sridharan, Swupnil Sahai
 
 ### As tutor, reader, and other roles
 
@@ -108,6 +108,6 @@ I strongly believe that education should be a freely available resource; if you'
 
 ## Links
 
-- [Resume](https://drive.google.com/file/d/1BQC9QeK2rRJhuz2Jeq98z3aVS46tOFLw/view?usp=sharing)
+- [Resume (incl. data science coursework and projects)](https://drive.google.com/file/d/1BQC9QeK2rRJhuz2Jeq98z3aVS46tOFLw/view?usp=sharing)
 - [GitHub](https://github.com/castroian)
 - [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
