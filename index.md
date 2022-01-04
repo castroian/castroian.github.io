@@ -1,9 +1,9 @@
 ---
 ---
 
-I am an **applied data scientist** 📈 with a focus in education and policy. My background is in STEM education and information law, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley.
+I am an **applied data scientist** 📈 with a focus in education and policy. My background is in STEM education and information law, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley 🐻.
 
-I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at **[castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu)** or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
+I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
 
 
 ---
@@ -35,7 +35,7 @@ Lastly, if you're interested in applying to graduate school, or speaking with me
 
 ### Selected Projects
 
-The following links are to papers and projects I'm particularly proud of. These papers include my many forays into fields including NLP, constitutional law, statistical analysis, biological reseach, and journalism.
+The following links are to papers and projects I'm particularly proud of. These papers include my many forays into fields including NLP, constitutional law, statistical analysis, biological research, and journalism.
 
 - A Topic Analysis of the Supreme Court of the United States' Views on Free Speech and the First Amendment ([Paper](https://drive.google.com/file/d/1WymAStgsM1_wx_AFZua8KMaoFoQmfeRl/view?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1edgeqrSJxEVk_LvL2ZnKop5Zn4jvxjaRQuGCP9p8MRI/edit?usp=sharing))
 
@@ -62,6 +62,7 @@ The following links are to papers and projects I'm particularly proud of. These 
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Exploratory Data Analysis for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
 
+If you're interested in viewing the code, data, or other information, let me know!
 
 ---
 
