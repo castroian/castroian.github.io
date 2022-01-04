@@ -1,7 +1,9 @@
 ---
 ---
 
-Hello! I am in the Master's of Information Management and Systems program at the UC Berkeley School of Information. My area of concentration is in applied data science, with a focus on education and policy. I graduated in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also at the University of California, Berkeley.
+I am an applied data scientist with a focus in education and policy. My background is in STEM education and law, and I graduated in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley.
+
+I am currently looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at castro.ian(at)berkeley.edu or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
 
 
 ## 🤷 What I do

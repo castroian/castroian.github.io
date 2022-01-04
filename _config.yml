@@ -22,7 +22,7 @@ description: Graduate Student, School of Information, UC Berkeley
 # for the homepage image + big text next to it
 greeting_image: /assets/ISchoolHeadshot.jpg
 # 100-200 characters recommended
-greeting_text:  Graduate student at the UC Berkeley School of Information
+greeting_text: Hello! I am a graduate student in the Master of Information Management and Systems program at the UC Berkeley School of Information.
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
