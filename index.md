@@ -18,8 +18,8 @@ I am skilled at statistical analysis (research design, hypothesis testing, regre
 My broad interests can be distilled into the three following areas:
 
 1. Data science as a tool for social good 📊
-1. Accessibility in data and computer science education 💻
-1. Information policy (privacy, freedom of speech, and freedom of press) ⚖️
+1. Accessibility in data & computer science education 💻
+1. Information law & policy (privacy, freedom of speech, and freedom of press) ⚖️
 
 Currently, I work as a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an [overnight scholarship recruiting program](https://rohp.berkeley.edu/) for the UC Berkeley Financial Aid & Scholarships Office, and taught at the [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
 
@@ -98,7 +98,7 @@ If you're interested in viewing the code, data, or other information for these p
 
 
 ### For fun
-- [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar series on data ethics and information policy
+- [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar series on data ethics and info policy
 - Workshops on [tea tasting](https://docs.google.com/presentation/d/1zB5ZYOwPb9OugZ1F2NrBPZ19EBOkYe9mRLoGgr6IJTs/edit?usp=sharing) and data science at [Splash! at Berkeley](https://berkeley.learningu.org/)
 
 
