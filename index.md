@@ -21,7 +21,7 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data and computer science education 💻
 1. Information policy (privacy, freedom of speech, and freedom of press) ⚖️
 
-Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab([D-Lab](https://dlab.berkeley.edu/), a graduate student instructor in the department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/) and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
+Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/) and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
 
 Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas from every continent except Antartica.
 
