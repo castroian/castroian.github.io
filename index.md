@@ -23,9 +23,9 @@ My broad interests can be distilled into the three following areas:
 
 Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/) and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
 
-Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas from every continent except Antartica.
+Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas from every continent except Antarctica.
 
-Lastly, if you're interested in applying to graduate school, or speaking with me about any of these interests, let me know!
+Lastly, if you're interested in applying to graduate school, or speaking with me about any of these interests, let me know! I love to speak with students and other people studying these fields.
 
 
 ---
@@ -35,7 +35,7 @@ Lastly, if you're interested in applying to graduate school, or speaking with me
 
 ### Selected Projects
 
-The following links are to papers and projects I'm particularly proud of. These papers include my many forays into fields including NLP, constitutional law, statistical analysis, biological research, and journalism.
+The following links are to papers and projects I have authored and am particularly proud of. These papers include my many forays into fields including NLP, constitutional law, statistical analysis, biological research, and journalism.
 
 - A Topic Analysis of the Supreme Court of the United States' Views on Free Speech and the First Amendment ([Paper](https://drive.google.com/file/d/1WymAStgsM1_wx_AFZua8KMaoFoQmfeRl/view?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1edgeqrSJxEVk_LvL2ZnKop5Zn4jvxjaRQuGCP9p8MRI/edit?usp=sharing))
 
