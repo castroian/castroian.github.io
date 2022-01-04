@@ -66,10 +66,7 @@ If you're interested in viewing the code, data, or other information for these p
 
 ---
 
-
 ## Teaching 📚
-
-I strongly believe that education should be freely available; if you're interested in any of my teaching materials or resources (slides, Jupyter notebooks, etc.), please reach out.
 
 ### As instructor
 
@@ -102,7 +99,7 @@ I strongly believe that education should be freely available; if you're interest
 - [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar on data ethics and information policy
 - Workshops on [tea tasting](https://docs.google.com/presentation/d/1zB5ZYOwPb9OugZ1F2NrBPZ19EBOkYe9mRLoGgr6IJTs/edit?usp=sharing) and data science at [Splash! at Berkeley](https://berkeley.learningu.org/)
 
-
+I strongly believe that education should be a freely available resource; if you're interested in any of my teaching materials or resources (slides, Jupyter notebooks, best practices, etc.), please reach out. I'll be more than happy to share!
 ---
 
 ## Links
