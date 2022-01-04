@@ -21,7 +21,7 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data and computer science education 💻
 1. Information policy (privacy, freedom of speech, and freedom of press) ⚖️
 
-Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/) and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
+Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an overnight host program for the UC Berkeley Financial Aid Office, and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
 
 Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas from every continent except Antarctica.
 
@@ -61,6 +61,7 @@ The following links are to papers and projects I have authored and am particular
 
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Exploratory Data Analysis for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
+- Math & Physical Sciences Undergraduate Diversity, Equity, and Inclusion Task Force Department of Statistics Representative ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
 
 If you're interested in viewing the code, data, or other information for these projects, please contact me.
 
@@ -99,7 +100,9 @@ If you're interested in viewing the code, data, or other information for these p
 - [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar on data ethics and information policy
 - Workshops on [tea tasting](https://docs.google.com/presentation/d/1zB5ZYOwPb9OugZ1F2NrBPZ19EBOkYe9mRLoGgr6IJTs/edit?usp=sharing) and data science at [Splash! at Berkeley](https://berkeley.learningu.org/)
 
+
 I strongly believe that education should be a freely available resource; if you're interested in any of my teaching materials or resources (slides, Jupyter notebooks, best practices, etc.), please reach out. I'll be more than happy to share!
+
 ---
 
 ## Links
