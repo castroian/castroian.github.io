@@ -11,27 +11,37 @@ I am currently looking for Summer 2022 internship roles in data science or data 
 1. Accessibility in data and computer science education
 1. Information policy (First and Fourth Amendment)
 
-
+---
 ## Scholarship
 
 ### Selected Projects
+
 The following links are to papers and projects I'm particularly proud of.
 
 - A Topic Analysis of the Supreme Court of the United States' Views on Free Speech and the First Amendment ([Paper](https://drive.google.com/file/d/1WymAStgsM1_wx_AFZua8KMaoFoQmfeRl/view?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1edgeqrSJxEVk_LvL2ZnKop5Zn4jvxjaRQuGCP9p8MRI/edit?usp=sharing))
+
 INSERT DESCRIPTION HERE
 
 - A Man's Device is his Castle: Digital Information, Metadata, and the Fourth Amendment ([Paper](https://drive.google.com/file/d/1IXcbLmydJD7hZr2xmphZnzlIA1jM1Tgw/view?usp=sharing))
+
 INSERT DESCRIPTION HERE
 
 - Controversial Issues and Contrasting Viewpoints: Why was the FCC's Fairness Doctrine repealed and what effect did it have on American news media? ([Paper](https://drive.google.com/file/d/1nDEE0Bm0Qv17hwP4HXQ2Ki7zWtDFrThn/view?usp=sharing))
+
+INSERT DESCRIPTION HERE
+
+- The Effect of Academic Outreach Programs on the Performance and Science Identity of Underrepresented Minorities in Data Science ([Paper](https://drive.google.com/file/d/1gQYgFNEnu1BDVYzI6PGFwZUjjX2cIKmE/view?usp=sharing))
+
 INSERT DESCRIPTION HERE
 
 - 18s rDNA analysis reveals evidence for polyphyletic evolution of facultative heterotrophy in pennate diatoms *Nitzschia, Hantzschia,* and *Navicula* ([Paper](https://drive.google.com/file/d/1votZNNwSESaX1QlWmGQOr6X8YYn6w7cR/view?usp=sharing))
+
 INSERT DESCRIPTION HERE
 
-
-
+---
 ## Teaching
+
+I strongly believe that education should be freely available; if you're interested in any of my teaching materials or resources (slides, notebooks, etc.), please reach out.
 
 ### As instructor
 
