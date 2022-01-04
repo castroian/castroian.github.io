@@ -61,8 +61,8 @@ The following links are to papers and projects I have authored and am particular
 
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Exploratory Data Analysis for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
-- Math & Physical Sciences Undergraduate Diversity, Equity, and Inclusion Task Force Department of Statistics Representative ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
-- A study guide for AP US History up to 2016 ([Link](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
+- Math & Physical Sciences Undergraduate Diversity, Equity, and Inclusion Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
+- A study guide for AP US History up to 2016 ([pdf](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
 
 If you're interested in viewing the code, data, or other information for these projects, please contact me.
 
