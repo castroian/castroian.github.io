@@ -60,7 +60,7 @@ The following links are to papers and projects I have authored and am particular
 ### Other
 
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
-- Exploratory Data Analysis for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
+- Exploratory Data Analysis using pandas for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1gRQ6UD72_6qYxFP5sK3jgn-l094EIBBU7RdBHzC9F0I/edit?usp=sharing), [Notebook](https://github.com/castroian/pa_voting_analysis/blob/main/pa_analysis.ipynb))
 - Math & Physical Sciences Undergraduate Diversity, Equity, Inclusion, and Advancement Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
 - Study guide for AP US History and Introduction to US History from 1491 to 2016 ([pdf](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
 
@@ -91,14 +91,14 @@ If you're interested in viewing the code, data, or other information for these p
 - Various Python, R workshops at the [D-Lab](https://dlab.berkeley.edu/events/all-events) (Spring 2022, Fall 2021)
 - Molecular & Cell Biology C148: Microbial Genetics & Genomics (Spring 2021)
   - Instructors: Drs. Michi Taga, Adam Deutschbauer
-- Political Science 106A: American Politics - Campaign Strategy (Fall 2020)
+- Political Science 106A: American Politics - Campaign Strategy & Media (Fall 2020)
   - Instructor: Dan Schnur
 - Data 8: Foundations of Data Science (Fall 2018, Spring 2018)
   - Instructors: Drs. Ani Adhikari, David Wagner
 
 
 ### For fun
-- [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar on data ethics and information policy
+- [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar series on data ethics and information policy
 - Workshops on [tea tasting](https://docs.google.com/presentation/d/1zB5ZYOwPb9OugZ1F2NrBPZ19EBOkYe9mRLoGgr6IJTs/edit?usp=sharing) and data science at [Splash! at Berkeley](https://berkeley.learningu.org/)
 
 
