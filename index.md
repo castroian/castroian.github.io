@@ -11,7 +11,7 @@ I am looking for Summer 2022 internship roles in data science or data analytics.
 
 ## About me 👋
 
-I am a first-generation Filipino 🇵🇭 college student born and raised in the East Bay Area. Growing up in a community heavily shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- have great possibilities for social mobility, but access to these STEM fields is particularly limited for students who are low-income, first-generation, or underrepresented. Most of my professional experience has been as an educator in this space, aiming to make key introductory courses more accessible for these groups and non-majors to build interest in these fields.
+I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for social mobility, but access to these STEM fields is particularly limited for students who are low-income, first-generation, or underrepresented. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and non-majors to build interest in CS/DS while also emphasizing the social impact of data and technology.
 
 I am skilled at statistical analysis (research design, hypothesis testing, regression analysis), programming (Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and applied machine learning). I also have a strong background in communication, constitutional law, and policy research. You can see some of work I've done in the sections below.
 
@@ -21,7 +21,7 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data and computer science education 💻
 1. Information policy (privacy, freedom of speech, and freedom of press) ⚖️
 
-Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an overnight host program for the UC Berkeley Financial Aid Office, and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
+Currently, I am a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an overnight scholarship recruiting program for the UC Berkeley Financial Aid Office, and taught at the UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
 
 Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas from every continent except Antarctica.
 
@@ -62,7 +62,7 @@ The following links are to papers and projects I have authored and am particular
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Exploratory Data Analysis for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
 - Math & Physical Sciences Undergraduate Diversity, Equity, and Inclusion Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
-- A study guide for AP US History up to 2016 ([pdf](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
+- A study guide for AP US History and introductory US History courses from 1491 to 2016 ([pdf](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
 
 If you're interested in viewing the code, data, or other information for these projects, please contact me.
 
