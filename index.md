@@ -1,49 +1,64 @@
 ---
 ---
 
-I am an applied data scientist with a focus in education and policy. My background is in STEM education and law, and I graduated in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley.
+I am an **applied data scientist** with a focus in education and policy. My background is in STEM education and law, and I graduated in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley.
 
-I am currently looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](castro.ian@berkeley.edu) or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
-
-
-## What I do
-
-placeholder
+I am currently looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at **castro.ian@berkeley.edu** or through [Linkedin](https://www.linkedin.com/in/hans-k-castro/).
 
 
-## Selected Papers
+## My background
 
-placeholder
+1. Accessibility in data and computer science education
+1. Information policy (First and Fourth Amendment)
 
-### Data & Law
-
-placeholder
-
-### Media and Journalism
-
-placeholder
 
 ## Scholarship
+
+### Selected Projects
+The following links are to papers and projects I'm particularly proud of.
+
+- A Topic Analysis of the Supreme Court of the United States' Views on Free Speech and the First Amendment ([Paper](https://drive.google.com/file/d/1WymAStgsM1_wx_AFZua8KMaoFoQmfeRl/view?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1edgeqrSJxEVk_LvL2ZnKop5Zn4jvxjaRQuGCP9p8MRI/edit?usp=sharing))
+INSERT DESCRIPTION HERE
+
+- A Man's Device is his Castle: Digital Information, Metadata, and the Fourth Amendment ([Paper](https://drive.google.com/file/d/1IXcbLmydJD7hZr2xmphZnzlIA1jM1Tgw/view?usp=sharing))
+INSERT DESCRIPTION HERE
+
+- Controversial Issues and Contrasting Viewpoints: Why was the FCC's Fairness Doctrine repealed and what effect did it have on American news media? ([Paper](https://drive.google.com/file/d/1nDEE0Bm0Qv17hwP4HXQ2Ki7zWtDFrThn/view?usp=sharing))
+INSERT DESCRIPTION HERE
+
+- 18s rDNA analysis reveals evidence for polyphyletic evolution of facultative heterotrophy in pennate diatoms *Nitzschia, Hantzschia,* and *Navicula* ([Paper](https://drive.google.com/file/d/1votZNNwSESaX1QlWmGQOr6X8YYn6w7cR/view?usp=sharing))
+INSERT DESCRIPTION HERE
+
 
 
 ## Teaching
 
-### As Instructor
+### As instructor
 
 - [Data 6: Introduction to Computational Thinking with Data](http://data6.org/su21/) (Summer 2021, Summer 2020)
 - Information 290: Introduction to Data Science for Graduate Students (Spring 2021, Fall 2020, Spring 2020, Fall 2019)
 
-### As Teaching Assistant
+### As teaching assistant
 
-- Psychology 101: Research and Data Analysis in Psychology (with Dr. Arman Catterson; Spring 2022)
-- Political Science 3: Introduction to Empirical Analysis & Quantitative Methods (with Dr. David Broockman; Fall 2021)
-- [Data 8: Foundations of Data Science](http://data8.org/) (with Drs. Ani Adhikari, John DeNero, David Wagner, Ramesh Sridharan, Swupnil Sahai; Spring 2021, Fall 2020, Spring 2020, Fall 2019, Spring 2019)
+- Psychology 101: Research and Data Analysis in Psychology (Spring 2022)
+  - Instructor: Dr. Arman Catterson
+- Political Science 3: Introduction to Empirical Analysis & Quantitative Methods (Fall 2021)
+  - Instructor: Dr. David Broockman
+- [Data 8: Foundations of Data Science](http://data8.org/) (Spring 2021, Fall 2020, Spring 2020, Fall 2019, Spring 2019)
+  - Instructors: Drs. Ani Adhikari, John DeNero, David Wagner, Ramesh Sridharan, Swupnil Sahai
 
-## As Tutor, Reader, and Other Roles
+### As tutor, reader, and other roles
 
-- Molecular & Cell Biology C148: Microbial Genetics & Genomics (with Drs. Michi Taga and Adam Deutschbauer; Spring 2021)
-- Political Science 106A: American Politics - Campaign Strategy (with Dan Schnur; Fall 2020)
-- Data 8: Foundations of Data Science (with Drs. Ani Adhikari, David Wagner; Fall 2018, Spring 2018)
+- Molecular & Cell Biology C148: Microbial Genetics & Genomics (Spring 2021)
+  - Instructors: Drs. Michi Taga and Adam Deutschbauer
+- Political Science 106A: American Politics - Campaign Strategy (Fall 2020)
+  - Instructor: Dan Schnur
+- Data 8: Foundations of Data Science (Fall 2018, Spring 2018)
+  - Instructors: Drs. Ani Adhikari, David Wagner
 
 
 ## Awards
+- I School Graduate Scholar Fellowship Recipient, Fall 2021
+- Phi Beta Kappa, Spring 2021
+- Helen Tomasini Research Grant, Fall 2020
+- Regents & Chancellor's Scholarship Recipient, Fall 2017
