@@ -27,7 +27,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/ISchoolHeadshot.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: Hello! I am a graduate student in the Masters of Information Management and Systems program at the UC Berkeley [School of Information](https://www.ischool.berkeley.edu/).
 
 # show blog post excerpts on blog page
 show_excerpts: false
