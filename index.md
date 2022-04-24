@@ -3,7 +3,7 @@
 
 I am an **applied data scientist** 📈 with a focus in education and policy. My background is in STEM education and information law, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley 🐻.
 
-I am looking for Summer 2022 internship roles in data science or data analytics. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
+I finish my graduate program in Spring of 2023 and will be looking for full-time positions then. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 
 
 ---
@@ -20,6 +20,8 @@ My broad interests can be distilled into the three following areas:
 1. Data science as a tool for social good 📊
 1. Accessibility in data & computer science education 💻
 1. Information law & policy (privacy, freedom of speech, and freedom of press) ⚖️
+
+In terms of research, I study issues regarding equity in communities. This summer, I am working at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. In Fall 2022, I will work with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/), studying demographic disparities in education.  
 
 Currently, I work as a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an [overnight scholarship recruiting program](https://rohp.berkeley.edu/) for the UC Berkeley Financial Aid & Scholarships Office, and taught at the [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
 
@@ -111,3 +113,4 @@ I strongly believe that education should be a freely available resource; if you'
 - [Resume (incl. data science coursework and projects)](https://drive.google.com/file/d/1BQC9QeK2rRJhuz2Jeq98z3aVS46tOFLw/view?usp=sharing)
 - [GitHub](https://github.com/castroian)
 - [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
+- [Photography Portfolio](...)
