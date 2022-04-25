@@ -3,7 +3,7 @@
 
 I am an **applied data scientist** 📈 with a focus in education and policy. My background is in STEM education and information law, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley 🐻.
 
-I finish my graduate program in Spring 2023 and will be looking for full-time positions then. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
+I finish my graduate program in Spring 2023 and will be looking for full-time positions then. If you think I'd be a good fit for your organization, please reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 
 
 ---
@@ -21,15 +21,15 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data & computer science education 💻
 1. Information law & policy (privacy, freedom of speech, and freedom of press) ⚖️
 
-In terms of research, I study issues regarding equity in communities. This summer, I am working at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. In Fall 2022, I will work with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/), studying demographic disparities in evictions and gentrification.
+In terms of research, I study issues regarding equity in communities. This summer, I am working at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. In Fall 2022, I will work with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/), studying gentrification and demographic disparities in evictions.
 
 Here are some of my past affiliations:
 
-2. UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/))
-2. [CalNERDS](https://calnerds.berkeley.edu/)
-2. The Internet Education Foundation's [Congressional App Challenge](https://www.congressionalappchallenge.us/)
-2. An [overnight scholarship recruiting program](https://rohp.berkeley.edu/) with the UC Berkeley Financial Aid & Scholarships Office
-2. UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/)
+- Fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/))
+- Student Director at [CalNERDS](https://calnerds.berkeley.edu/)
+- Intern at Internet Education Foundation's [Congressional App Challenge](https://www.congressionalappchallenge.us/)
+- Coordinator for an [overnight scholarship recruiting program](https://rohp.berkeley.edu/) with the UC Berkeley Financial Aid & Scholarships Office
+- Instructor at UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/)
 
 Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas total from every continent where tea plants can grow. You can often find me at [Blue Willow Tea](https://www.bluewillowtea.com/); I highly recommend it!
 
@@ -55,7 +55,7 @@ The following links are to papers and projects I have authored and am particular
 
 - 18s rDNA analysis reveals evidence for polyphyletic evolution of facultative heterotrophy in pennate diatoms *Nitzschia, Hantzschia,* and *Navicula* ([Paper](https://drive.google.com/file/d/1votZNNwSESaX1QlWmGQOr6X8YYn6w7cR/view?usp=sharing))
 
-- Unnamed Project on Content Moderation for Children's Platforms under Section 230 (https://journalism.berkeley.edu/our-better-web/) (["Our Better Web"](https://journalism.berkeley.edu/our-better-web/) Podcast, to be released end of Spring 22)
+- Unnamed Project on Content Moderation for Children's Platforms under Section 230 (["Our Better Web"](https://journalism.berkeley.edu/our-better-web/) Podcast, to be released end of Spring 22)
 
 
 ### Invited Conferences
@@ -97,7 +97,7 @@ If you're interested in viewing the code, data, or other information for these p
 
 ### As tutor, reader, and other roles
 
-- Various Python, R workshops at the [D-Lab](https://dlab.berkeley.edu/events/all-events) (Spring 2022, Fall 2021)
+- Various Python, R workshops at the [D-Lab](https://dlab.berkeley.edu/events/all-events) (Fall 2022, Fall 2021)
 - Molecular & Cell Biology C148: Microbial Genetics & Genomics (Spring 2021)
   - Instructors: Drs. Michi Taga, Adam Deutschbauer
 - Political Science 106A: American Politics - Campaign Strategy & Media (Fall 2020)
@@ -117,7 +117,7 @@ I strongly believe that education should be a freely available resource; if you'
 
 ## Links
 
-- [Resume (incl. data science coursework and projects)](https://drive.google.com/file/d/1BQC9QeK2rRJhuz2Jeq98z3aVS46tOFLw/view?usp=sharing)
+- [Resume (incl. data science coursework and projects)](https://drive.google.com/file/d/1IsI5fjH0MBVG6RYOvpGERVbrgaX9w3uQ/view?usp=sharing)
 - [GitHub](https://github.com/castroian)
 - [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
 - [Photography Portfolio](https://castroian.github.io/ianshootsphotos)
