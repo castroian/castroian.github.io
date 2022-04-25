@@ -3,7 +3,7 @@
 
 I am an **applied data scientist** 📈 with a focus in education and policy. My background is in STEM education and information law, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley 🐻.
 
-I finish my graduate program in Spring of 2023 and will be looking for full-time positions then. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
+I finish my graduate program in Spring 2023 and will be looking for full-time positions then. If you think I'd be a good fit for your organization, you can reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 
 
 ---
@@ -11,7 +11,7 @@ I finish my graduate program in Spring of 2023 and will be looking for full-time
 
 ## About me 👋
 
-I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for social mobility, but access to these STEM fields is particularly limited for students who are low-income, first-generation, or underrepresented. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and non-majors to help build interest in CS/DS while also emphasizing the social impact of data and technology.
+I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for social mobility, but access to these  fields is particularly limited for students who are low-income, first-generation, or generally underrepresented. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and non-majors to help build interest in CS/DS while also emphasizing the social impact of data and technology.
 
 I am skilled at statistical analysis (research design, hypothesis testing, regression analysis), programming (algorithms and data structures in Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and applied machine learning). I also have a strong background in communication, constitutional law, and policy research. You can see some of work I've done in the sections below.
 
@@ -21,17 +21,21 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data & computer science education 💻
 1. Information law & policy (privacy, freedom of speech, and freedom of press) ⚖️
 
-In terms of research, I study issues regarding equity in communities. This summer, I am working at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. In Fall 2022, I will work with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/), studying demographic disparities in education.  
+In terms of research, I study issues regarding equity in communities. This summer, I am working at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. In Fall 2022, I will work with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/), studying demographic disparities in evictions and gentrification.
 
-Currently, I work as a data science fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/)), a graduate student instructor in the Department of Psychology, and a [CalNERDS](https://calnerds.berkeley.edu/) affiliate studying diversity in STEM. In the past, I have interned at the Internet Education Foundation for the [Congressional App Challenge](https://www.congressionalappchallenge.us/), ran an [overnight scholarship recruiting program](https://rohp.berkeley.edu/) for the UC Berkeley Financial Aid & Scholarships Office, and taught at the [Division of Computing, Data Science, and Society](https://data.berkeley.edu/).
+Here are some of my past affiliations:
 
-Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas from every continent except Antarctica.
+2. UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/))
+2. [CalNERDS](https://calnerds.berkeley.edu/)
+2. The Internet Education Foundation's [Congressional App Challenge](https://www.congressionalappchallenge.us/)
+2. An [overnight scholarship recruiting program](https://rohp.berkeley.edu/) with the UC Berkeley Financial Aid & Scholarships Office
+2. UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/)
+
+Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas total from every continent where tea plants can grow. You can often find me at [Blue Willow Tea](https://www.bluewillowtea.com/); I highly recommend it!
 
 Lastly, if you're interested in applying to graduate school, or speaking with me about any of these interests, let me know! I love to speak with students and other people studying these fields.
 
-
 ---
-
 
 ## Scholarship 📝
 
@@ -51,6 +55,8 @@ The following links are to papers and projects I have authored and am particular
 
 - 18s rDNA analysis reveals evidence for polyphyletic evolution of facultative heterotrophy in pennate diatoms *Nitzschia, Hantzschia,* and *Navicula* ([Paper](https://drive.google.com/file/d/1votZNNwSESaX1QlWmGQOr6X8YYn6w7cR/view?usp=sharing))
 
+- Unnamed Project on Content Moderation for Children's Platforms under Section 230 (https://journalism.berkeley.edu/our-better-web/) (["Our Better Web"](https://journalism.berkeley.edu/our-better-web/) Podcast, to be released end of Spring 22)
+
 
 ### Invited Conferences
 
@@ -61,6 +67,7 @@ The following links are to papers and projects I have authored and am particular
 
 ### Other
 
+- Bringing all voices to the table ([California Magazine feature](https://light.berkeley.edu/o/the-gateway-an-idea-factory-for-data-transformation/))
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Exploratory Data Analysis using pandas for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1gRQ6UD72_6qYxFP5sK3jgn-l094EIBBU7RdBHzC9F0I/edit?usp=sharing), [Notebook](https://github.com/castroian/pa_voting_analysis/blob/main/pa_analysis.ipynb))
 - Math & Physical Sciences Undergraduate Diversity, Equity, Inclusion, and Advancement Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
@@ -113,4 +120,4 @@ I strongly believe that education should be a freely available resource; if you'
 - [Resume (incl. data science coursework and projects)](https://drive.google.com/file/d/1BQC9QeK2rRJhuz2Jeq98z3aVS46tOFLw/view?usp=sharing)
 - [GitHub](https://github.com/castroian)
 - [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
-- [Photography Portfolio](...)
+- [Photography Portfolio](https://castroian.github.io/ianshootsphotos)
