@@ -12,7 +12,7 @@ I finish my graduate program in Spring 2023 and am currently looking for full-ti
 
 I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for upward mobility, but access to these fields is particularly limited for students who are low-income, first-generation, or just generally non-traditional. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and students in non-computing majors to build interest in CS/DS skills while also emphasizing the social impact of data and technology.
 
-I am skilled at statistical analysis (research and survey design, hypothesis testing, causal inference), programming (algorithms and data structures in Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and machine learning). I also have experience working as a photojournalist and tech policy reporter, having covered topics including Section 230, the 2022 University of California UAW strike, and People's Park protests. My photos have been published by outlets including the SF Chronicle, SF Examiner, Berkeleyside, Berkeley Times, Street Spirit, and KQED. You can see my work on my [Instagram](https://instagram.com/ianshootsphotos), and you can find some of my data projects in the section below.
+I am skilled at statistical analysis (research and survey design, hypothesis testing, causal inference), programming (algorithms and data structures in Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and machine learning). I also have experience working as a photojournalist and tech policy reporter, having covered topics including Section 230, the 2022 University of California UAW strike, and People's Park protests. My photos have been published by outlets including the SF Chronicle, SF Examiner, Berkeleyside, Berkeley Times, Street Spirit, and KQED. You can see my work on my [Instagram](https://instagram.com/ianshootsphotos) or my portfolio at the bottom of this page, and you can find some of my data projects in the section below.
 
 My broad interests can be distilled into the three following areas:
 
@@ -60,17 +60,17 @@ The following links are to some projects I'm particularly proud of and have auth
 ### Invited Conferences & Talks
 
 - 2022 Science Coding Immersion Program at San Francisco State University ([Talk Slides](https://docs.google.com/presentation/d/1pPAZrP5Lggir7n6N_v-ghhWTVhfK1jHzncas8hGuVnc/edit?usp=sharing)
-- 2021 [Interdisciplinary Computing Summer Institute](https://www.sjsu.edu/icsi/) at San Jose State University ([Talk Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
+- 2021 Interdisciplinary Computing Summer Institute at San Jose State University ([Talk Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
 - 2021 National Workshop on Data Science Education at UC Berkeley ([Lab Demo](https://docs.google.com/presentation/d/1RMnwUpes2iaj9Q-nOx7pk-0FQRYi-IDnPhWab4yTF_Y/edit?usp=sharing))
 - 2020 Data Science for High School Computer Science Workshop at Cornell Tech ([White Paper](http://nebigdatahub.org/wp-content/uploads/2020/08/Data-Science-for-High-School-Computer-Science-Workshop.report.final3_.pdf))
 
 
 ### Other
 
-- Do all Bay Area residents have access to employment opportunities? [Bay Area Equity Atlas Blog Post](https://bayareaequityatlas.org/employment-opportunities)
-- How a student found purpose using data science in journalism [CDSS Feature](https://data.berkeley.edu/news/how-student-found-purpose-using-data-science-journalism)
-- MIMS student uses data science to develop eviction database [School of Information Feature](https://www.ischool.berkeley.edu/news/2022/mims-student-uses-data-science-develop-eviction-database)
-- Applied Programming Experiences feature at San Jose State University [Promo Video](https://www.youtube.com/watch?v=BXaUoyxJTkU)
+- Do all Bay Area residents have access to employment opportunities? ([Bay Area Equity Atlas Blog Post](https://bayareaequityatlas.org/employment-opportunities))
+- How a student found purpose using data science in journalism ([CDSS Feature](https://data.berkeley.edu/news/how-student-found-purpose-using-data-science-journalism))
+- MIMS student uses data science to develop eviction database ([School of Information Feature](https://www.ischool.berkeley.edu/news/2022/mims-student-uses-data-science-develop-eviction-database))
+- Applied Programming Experiences feature at San Jose State University ([Promo Video](https://www.youtube.com/watch?v=BXaUoyxJTkU))
 - Bringing all voices to the table ([California Magazine Feature](https://light.berkeley.edu/o/the-gateway-an-idea-factory-for-data-transformation/))
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
 - Math & Physical Sciences Undergraduate Diversity, Equity, Inclusion, and Advancement Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
@@ -99,7 +99,7 @@ If you're interested in viewing the code, data, or other information for these p
 
 ### As tutor, reader, and other roles
 
-- Various Python, R workshops at the [D-Lab](https://dlab.berkeley.edu/events/all-events) (Fall 2022, Fall 2021)
+- Various Python, R workshops at the D-Lab (Fall 2022, Fall 2021)
 - Molecular & Cell Biology C148: Microbial Genetics & Genomics (Spring 2021)
   - Instructors: Drs. Michi Taga, Adam Deutschbauer
 - Political Science 106A: American Politics - Campaign Strategy & Media (Fall 2020)
