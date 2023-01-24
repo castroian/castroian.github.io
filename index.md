@@ -1,19 +1,18 @@
 ---
 ---
 
-I am an **applied data scientist** 📈 with a focus in education and policy. My background is in STEM education and information law, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley 🐻.
+I am an **applied data scientist** 📈 and **journalist** with a focus in education and housing. My background is in STEM education, and I graduated magna cum laude in 2021 with a B.S. in Microbial Biology and a B.A. in Media Studies, also from the University of California, Berkeley 🐻.
 
-I finish my graduate program in Spring 2023 and will be looking for full-time positions then. If you think I'd be a good fit for your organization, please reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
-
+I finish my graduate program in Spring 2023 and am currently looking for full-time positions in data, media, and policy. If you think I'd be a good fit for your organization, please reach out to me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 
 ---
 
 
 ## About me 👋
 
-I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for social mobility, but access to these  fields is particularly limited for students who are low-income, first-generation, or generally underrepresented. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and non-majors to help build interest in CS/DS while also emphasizing the social impact of data and technology.
+I am a first-generation Filipino 🇵🇭 graduate student born and raised in the East Bay Area. Growing up in a community significantly shaped by the big tech industry, I saw how STEM degrees- particularly computer and data science- offer great possibilities for upward mobility, but access to these fields is particularly limited for students who are low-income, first-generation, or just generally non-traditional. Most of my professional experience has been as an educator in this space, motivated by my own lack of access to STEM opportunities growing up and my struggles to find a community in the field. Since coming to Cal, I have worked to make key introductory courses more accessible for marginalized students and students in non-computing majors to build interest in CS/DS skills while also emphasizing the social impact of data and technology.
 
-I am skilled at statistical analysis (research design, hypothesis testing, regression analysis), programming (algorithms and data structures in Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and applied machine learning). I also have a strong background in communication, constitutional law, and policy research. You can see some of work I've done in the sections below.
+I am skilled at statistical analysis (research and survey design, hypothesis testing, causal inference), programming (algorithms and data structures in Python and R), and data science (exploratory data analysis, data visualization, natural language processing, and machine learning). I also have experience working as a photojournalist and tech policy reporter, having covered topics including Section 230, the 2022 University of California UAW strike, and People's Park protests. My photos have been published by outlets including the SF Chronicle, SF Examiner, Berkeleyside, Berkeley Times, Street Spirit, and KQED. You can see my work on my [Instagram](https://instagram.com/ianshootsphotos), and you can find some of my data projects in the section below.
 
 My broad interests can be distilled into the three following areas:
 
@@ -21,19 +20,18 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data & computer science education 💻
 1. Information law & policy (privacy, freedom of speech, and freedom of press) ⚖️
 
-In terms of research, I study issues regarding equity in communities. This summer, I am working at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. In Fall 2022, I will work with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/), studying gentrification and demographic disparities in evictions.
+In terms of research, I focus on issues regarding equity in communities. I currently work with Dr. Tim Thomas at the [Evictions Research Network](https://evictionresearch.net/) and Dr. Karen Chapple at the [Urban Displacement Project](https://www.urbandisplacement.org/), studying demographic disparities in evictions. In the past, I worked at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project and the Internet Education Foundation on the [Congressional App Challenge](https://www.congressionalappchallenge.us/).
 
 Here are some of my past affiliations:
 
 - Fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/))
 - Student Director at [CalNERDS](https://calnerds.berkeley.edu/)
-- Intern at Internet Education Foundation's [Congressional App Challenge](https://www.congressionalappchallenge.us/)
 - Coordinator for an [overnight scholarship recruiting program](https://rohp.berkeley.edu/) with the UC Berkeley Financial Aid & Scholarships Office
 - Instructor at UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/)
 
-Outside of school, I'm interested in mycology, baseball (Go A's!), art (live music and photography) and making drinks (both caffeinated and not). A fun fact about me is that, after drinking tea for the past decade, I've probably tasted over 300 different teas total from every continent where tea plants can grow. You can often find me at [Blue Willow Tea](https://www.bluewillowtea.com/); I highly recommend it!
+Outside of school, I spend my time doing timbersports with the Cal Bucking Bears, looking for mushrooms in the forest, photographing the Oakland Roots Sports Club and local punk shows, and brewing lots of tea. A fun fact about me is that I've probably tasted at least 300 different teas from every continent where tea plants grow. You can often find me at [Blue Willow Tea](https://www.bluewillowtea.com/), which is one of my favorite spots in Berkeley.
 
-Lastly, if you're interested in applying to graduate school, or speaking with me about any of these interests, let me know! I love to speak with students and other people studying these fields.
+Lastly, if you're interested in applying to graduate school, or speaking with me about anything I mentioned, shoot me an email! I love to speak with students and other people interested in these fields.
 
 ---
 
@@ -41,25 +39,27 @@ Lastly, if you're interested in applying to graduate school, or speaking with me
 
 ### Selected Projects
 
-The following links are to papers and projects I have authored and am particularly proud of. These papers include my many forays into fields including NLP, constitutional law, statistical analysis, biological research, and journalism.
+The following links are to some projects I'm particularly proud of and have authored during my time here at Berkeley. Some are in progress; come back once they're published after I finish my final semester this spring!
+
+- Unnamed UC Berkeley School of Information capstone project in partnership with the Eviction Research Network and Othering and Belonging Institute (to be released May 2023)
+
+- Unnamed open-source investigation with the [Investigative Research Program](https://journalism.berkeley.edu/programs/mj/investigative-reporting/) at the UC Berkeley School of Journalism (to be released May 2023)
+
+- Ownership, Eviction, and the Right to the City of Richmond: An Analysis of Corporate Landlords and Mass Evictions in Richmond, CA (report for [RichmondLAND](https://www.richmondland.org/) available on request for now)
+
+- Our Better Web: Section 230, Content Moderation, & the California Age Appropriate Design Code ([Podcast Segment](https://drive.google.com/file/u/2/d/1pj0lzy9ZSZFR9IdFiwStcO8TyBrilJYa/view?usp=sharing))
 
 - A Topic Analysis of the Supreme Court of the United States' Views on Free Speech and the First Amendment ([Paper](https://drive.google.com/file/d/1WymAStgsM1_wx_AFZua8KMaoFoQmfeRl/view?usp=sharing), [Slides](https://docs.google.com/presentation/d/1edgeqrSJxEVk_LvL2ZnKop5Zn4jvxjaRQuGCP9p8MRI/edit?usp=sharing))
 
 - A Man's Device is his Castle: Digital Information, Metadata, and the Fourth Amendment ([Paper](https://drive.google.com/file/d/1IXcbLmydJD7hZr2xmphZnzlIA1jM1Tgw/view?usp=sharing))
 
-- Controversial Issues and Contrasting Viewpoints: Why was the FCC's Fairness Doctrine repealed and what effect did it have on American news media? ([Paper](https://drive.google.com/file/d/1nDEE0Bm0Qv17hwP4HXQ2Ki7zWtDFrThn/view?usp=sharing))
-
-- The Effect of Academic Outreach Programs on the Performance and Science Identity of Underrepresented Minorities in Data Science ([Paper](https://drive.google.com/file/d/1gQYgFNEnu1BDVYzI6PGFwZUjjX2cIKmE/view?usp=sharing))
-
 - 2019 Teachers' Strike: The Struggle with Funding and Public Education in the City of Oakland ([Multimedia Project](https://castroian5.wixsite.com/oaklandteacherstrike))
 
-- 18s rDNA analysis reveals evidence for polyphyletic evolution of facultative heterotrophy in pennate diatoms *Nitzschia, Hantzschia,* and *Navicula* ([Paper](https://drive.google.com/file/d/1votZNNwSESaX1QlWmGQOr6X8YYn6w7cR/view?usp=sharing))
-
-- Unnamed Project on Content Moderation for Children's Platforms under Section 230 (["Our Better Web"](https://journalism.berkeley.edu/our-better-web/) Podcast, to be released end of Spring 22)
 
 
-### Invited Conferences
+### Invited Conferences & Talks
 
+- 2022 Science Coding Immersion Program at San Francisco State University ([Talk Slides](https://docs.google.com/presentation/d/1pPAZrP5Lggir7n6N_v-ghhWTVhfK1jHzncas8hGuVnc/edit?usp=sharing)
 - 2021 [Interdisciplinary Computing Summer Institute](https://www.sjsu.edu/icsi/) at San Jose State University ([Talk Slides](https://docs.google.com/presentation/d/1ADf9sSAsDw8iigQO_NigbCHi8lavdtNjOasa3in6Wjg/edit?usp=sharing))
 - 2021 National Workshop on Data Science Education at UC Berkeley ([Lab Demo](https://docs.google.com/presentation/d/1RMnwUpes2iaj9Q-nOx7pk-0FQRYi-IDnPhWab4yTF_Y/edit?usp=sharing))
 - 2020 Data Science for High School Computer Science Workshop at Cornell Tech ([White Paper](http://nebigdatahub.org/wp-content/uploads/2020/08/Data-Science-for-High-School-Computer-Science-Workshop.report.final3_.pdf))
@@ -67,11 +67,13 @@ The following links are to papers and projects I have authored and am particular
 
 ### Other
 
-- Bringing all voices to the table ([California Magazine feature](https://light.berkeley.edu/o/the-gateway-an-idea-factory-for-data-transformation/))
+- Do all Bay Area residents have access to employment opportunities? [Bay Area Equity Atlas Blog Post](https://bayareaequityatlas.org/employment-opportunities)
+- How a student found purpose using data science in journalism [CDSS Feature](https://data.berkeley.edu/news/how-student-found-purpose-using-data-science-journalism)
+- MIMS student uses data science to develop eviction database [School of Information Feature](https://www.ischool.berkeley.edu/news/2022/mims-student-uses-data-science-develop-eviction-database)
+- Applied Programming Experiences feature at San Jose State University [Promo Video](https://www.youtube.com/watch?v=BXaUoyxJTkU)
+- Bringing all voices to the table ([California Magazine Feature](https://light.berkeley.edu/o/the-gateway-an-idea-factory-for-data-transformation/))
 - A Beginner's Guide to the Bootstrap ([D-Lab Blog Post](https://dlab.berkeley.edu/news/beginner%E2%80%99s-guide-bootstrap))
-- Exploratory Data Analysis using pandas for Political Campaign Media & Strategy ([Guest Lecture Slides](https://docs.google.com/presentation/d/1gRQ6UD72_6qYxFP5sK3jgn-l094EIBBU7RdBHzC9F0I/edit?usp=sharing), [Notebook](https://github.com/castroian/pa_voting_analysis/blob/main/pa_analysis.ipynb))
 - Math & Physical Sciences Undergraduate Diversity, Equity, Inclusion, and Advancement Task Force ([Draft Recommendations](https://drive.google.com/file/d/1e2BbUJMDafNDIMyqhG0LGcE4ZkmsvFUR/view?usp=sharing))
-- Study guide for AP US History and Introduction to US History from 1491 to 2016 ([pdf](https://drive.google.com/file/d/0B5MJNyrZaSjvWmpjZVVmc1JkekU/view?usp=sharing&resourcekey=0-iBQVh3elT5NGkdbbOc_LbA))
 
 If you're interested in viewing the code, data, or other information for these projects, please contact me.
 
@@ -106,18 +108,16 @@ If you're interested in viewing the code, data, or other information for these p
   - Instructors: Drs. Ani Adhikari, David Wagner
 
 
-### For fun
-- [Information, Data, and You](https://docs.google.com/document/d/11jXGDkL0Z6xU-uyh78drBBOzfWKh4j_kL6W603txx1g/edit?usp=sharing) high school seminar series on data ethics and info policy
-- Workshops on [tea tasting](https://docs.google.com/presentation/d/1zB5ZYOwPb9OugZ1F2NrBPZ19EBOkYe9mRLoGgr6IJTs/edit?usp=sharing) and data science at [Splash! at Berkeley](https://berkeley.learningu.org/)
-
-
 I strongly believe that education should be a freely available resource; if you're interested in any of my teaching materials or resources (slides, Jupyter notebooks, best practices, etc.), please reach out. I'll be more than happy to share!
 
 ---
 
 ## Links
 
-- [Resume (incl. data science coursework and projects)](https://drive.google.com/file/d/1IsI5fjH0MBVG6RYOvpGERVbrgaX9w3uQ/view?usp=sharing)
+- [Spring 22 Resume (incl. data science coursework and projects)](https://drive.google.com/file/d/1IsI5fjH0MBVG6RYOvpGERVbrgaX9w3uQ/view?usp=sharing)
 - [GitHub](https://github.com/castroian)
 - [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
 - [Photography Portfolio](https://castroian.github.io/ianshootsphotos)
+
+
+(this page was last updated January 2023)
