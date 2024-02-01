@@ -1,9 +1,9 @@
 ---
 ---
 
-I am an **applied data scientist** 📈 and **journalist** with a focus in education and housing. My background is in STEM education, and I graduated from the University of California, Berkeley 🐻 with a Master of Information Management and Systems (2023) and a B.S. in Microbial Biology and a B.A. in Media Studies (2021, magna cum laude).
+I am an **applied data scientist** 📈 and **journalist** with a focus in education and housing. I have a background in STEM education, and I graduated from the University of California, Berkeley 🐻 with a Master of Information Management and Systems (2023) and a B.S. in Microbial Biology and a B.A. in Media Studies (2021, magna cum laude).
 
-I currently work as a Political Database Manager at Equis Research, researching issues that affect Latino voters in the United States. I also work as a freelance journalist and provide data science and photography services to news organizations. If you would like to reach out for my services, please contact me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
+I currently work as a Political Database Manager at Equis Research, researching issues that affect Latino voters in the United States. I also work as a freelance journalist, providing data and photography services to news and community organizations. If you would like to reach out for my services, please contact me at [castro.ian(at)gmail.com](mailto:castro.ian@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 
 
 ---
@@ -21,16 +21,18 @@ My broad interests can be distilled into the three following areas:
 1. Accessibility in data & computer science education 💻
 1. Information law & policy (privacy, freedom of speech, and freedom of press)
 
-In terms of research, I study issues regarding equity in communities. During graduate school, I worked with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/) and Dr. Karen Chapple at the [Urban Displacement Project](https://www.urbandisplacement.org/), studying demographic disparities in evictions. I also interned at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. At the UC Berkeley School of Journalism, I worked on stories for the [Our Better Web](https://citrispolicylab.org/ourbetterweb/) initiative, the [Investigative Reporting Program](https://journalism.berkeley.edu/programs/mj/investigative-reporting/), and [Human Rights Center](https://humanrights.berkeley.edu/home).
+In terms of research, I study issues regarding equity in communities. During graduate school, I worked with Dr. Tim Thomas on the [Evictions Project](https://evictions.study/) and Dr. Karen Chapple at the [Urban Displacement Project](https://www.urbandisplacement.org/), studying demographic disparities in evictions using natural language processing and statistical techniques. I also interned at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. At the UC Berkeley School of Journalism, I worked on stories for the [Our Better Web](https://citrispolicylab.org/ourbetterweb/) initiative and the [Investigative Reporting Program](https://journalism.berkeley.edu/programs/mj/investigative-reporting/). Given that most of my experience is at the intersection of education, media, and politics, I eventually plan to study the role of information networks in facilitating mass social movement.
 
 Here are some of my past affiliations:
 
+- Open Source Investigative Reporter at the UC Berkeley [Human Rights Center](https://humanrights.berkeley.edu/home)
+- Photojournalist at the Berkeley Times, a print-only community newspaper
 - Fellow at the UC Berkeley Social Sciences Data Lab ([D-Lab](https://dlab.berkeley.edu/))
 - Intern at Internet Education Foundation's [Congressional App Challenge](https://www.congressionalappchallenge.us/)
 - Coordinator for an [overnight scholarship recruiting program](https://rohp.berkeley.edu/) with the UC Berkeley Financial Aid & Scholarships Office
 - Instructor at UC Berkeley [Division of Computing, Data Science, and Society](https://data.berkeley.edu/)
 
-Outside of school, I used to compete in timbersports with the Cal Bucking Bears. You can still find me looking for mushrooms in the forest, photographing the Oakland Roots Sports Club and local punk shows, and brewing lots of tea. A fun fact about me is that I've probably tasted at least 300 different teas from every continent where tea plants grow. If you're in Berkeley, I highly recommend stopping by [Blue Willow Tea](https://www.bluewillowtea.com/) and saying hi to Ali.
+Outside of school, I used to compete in logging sports (i.e., lumberjack things) with the Cal Bucking Bears. You can still find me foraging for mushrooms in the forest, photographing local punk shows, and brewing lots of tea. A fun fact about me is that I've probably tasted at least 300 different teas from every continent where tea plants grow. If you're in Berkeley, I highly recommend stopping by [Blue Willow Tea](https://www.bluewillowtea.com/) and saying hi to Ali.
 
 Lastly, if you're interested in applying to graduate school, or speaking with me about anything I mentioned, shoot me an email! I love to speak with students and other people interested in these fields.
 
@@ -41,8 +43,6 @@ Lastly, if you're interested in applying to graduate school, or speaking with me
 ### Selected Projects
 
 The following links are to some projects I'm particularly proud of and have authored during my time at Berkeley.
-
-- Unnamed open-source investigation with the [Investigative Research Program](https://journalism.berkeley.edu/programs/mj/investigative-reporting/) at the UC Berkeley School of Journalism (to be released August 2023)
 
 - Visualizing the Housing Crisis in Richmond, CA (School of Information [Master's Capstone Project](https://visualizinghousing.github.io/))
 
@@ -117,9 +117,9 @@ I strongly believe that education should be a freely available resource; if you'
 ## Links
 
 - [Spring 23 Resume](https://drive.google.com/file/d/1_X6EOXHuqiNx-anviJEyZviJFJ1D6wgx/view?usp=sharing)
-- [GitHub](https://github.com/castroian)
-- [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
 - [Photography Portfolio](https://castroian.github.io/ianshootsphotos)
+- [LinkedIn](https://www.linkedin.com/in/ian-castro-75b69a140/)
+- [GitHub](https://github.com/castroian)
 
 
-(this page was last updated May 2023)
+(this page was last updated February 2024)
