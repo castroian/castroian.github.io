@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome! I am an **applied data scientist** 📈 with a focus in voting, education, and housing. My career started in STEM education, and I graduated from the University of California, Berkeley 🐻 with a Master of Information Management and Systems (2023) and a B.S. in Microbial Biology and a B.A. in Media Studies (2021, magna cum laude). Now, I use data science to support mission-driven and community-based organizations. 
+Welcome! I am an **applied data scientist** 📈 with experience in researching voting, education, and housing. My career started in STEM education, and I graduated from the University of California, Berkeley 🐻 with a Master of Information Management and Systems (2023) and a B.S. in Microbial Biology and a B.A. in Media Studies (2021, magna cum laude). Now, I use data science to support mission-driven and community-based organizations. 
 
 I'm currently searching for positions in political data, tech, or analysis. My most recent role was at Equis Research, where I served as the Political Database Manager on the Targeting team. There, I managed our survey data and voterfiles, studied issues affecting Latino voters in the United States, and supported field organizations in finding and reaching out to voters in competitive elections across the country. If you would like to hire me or reach out for my services, please contact me at [castro.ian(at)gmail.com](mailto:castro.ian@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 

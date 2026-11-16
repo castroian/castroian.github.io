@@ -9,7 +9,7 @@ url: https://castroian.github.io/
 
 # for header and meta tags
 title: Ian Castro
-description: Applied Data Scientist & Journalist
+description: Applied Data Scientist
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -22,7 +22,7 @@ description: Applied Data Scientist & Journalist
 # for the homepage image + big text next to it
 greeting_image: /assets/ISchoolHeadshot.jpg
 # 100-200 characters recommended
-greeting_text: Hello! I am an applied data scientist, journalist, and recent graduate of the UC Berkeley School of Information.
+greeting_text: Hello! I am an applied data scientist focused on political data and community-based research. 
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
