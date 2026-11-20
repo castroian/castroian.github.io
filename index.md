@@ -1,16 +1,16 @@
 ---
 ---
 
-Welcome! I am an **applied data scientist** 📈 with experience in researching voting, education, and housing. My career started in STEM education, and I graduated from the University of California, Berkeley 🐻 with a Master of Information Management and Systems (2023) and a B.S. in Microbial Biology and a B.A. in Media Studies (2021, magna cum laude). Now, I use data science to support mission-driven and community-based organizations. 
+Welcome! I am an **applied data scientist**  with experience in researching voting, education, and housing. My career started in STEM education, and I graduated from the University of California, Berkeley with a Master of Information Management and Systems (2023) and a B.S. in Microbial Biology and a B.A. in Media Studies (2021, magna cum laude). Now, I use data science to support mission-driven and community-based organizations. 
 
-I'm currently searching for positions in political data, tech, or analysis. My most recent role was at Equis Research, where I served as the Political Database Manager on the Targeting team. There, I managed our survey data and voterfiles, studied issues affecting Latino voters in the United States, and supported field organizations in finding and reaching out to voters in competitive elections across the country. If you would like to hire me or reach out for my services, please contact me at [castro.ian(at)gmail.com](mailto:castro.ian@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
+I'm currently searching for positions in political data, tech, or analysis. My most recent role was at Equis Research, where I served as the Political Database Manager on the Targeting team. There, I managed our survey data and voterfiles, studied issues affecting Latino voters in the United States, and supported field organizations in finding and reaching out to voters in competitive elections across the country. If you would like to hire me or reach out for my services, please contact me at [castro(dot)ian(at)gmail.com](mailto:castro.ian@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/hans-k-castro/).
 
-Outside of work, I enjoy doing event, live music, and documentary photography; volunteering on prescribed burns; and hiking around the many trails in the Bay Area. 
+Outside of work, I enjoy doing event, live music, and documentary photography; reducing wildfire risk by volunteering on prescribed burns; and hiking around the many trails in the Bay Area. 
 
 ---
 
 
-## About me 👋
+## About me 
 
 I'm a mixed methods researcher with a primary focus in quantitative methods. I have experience in a variety of fields - including (but not limited to) media, journalism, politics, housing policy, STEM education, and microbiology - but the throughline is that I'm interested in using data to make better decisions and handle uncertainty. I am skilled at statistical analysis (research and survey design, sampling, hypothesis testing, causal inference), programming (Python, R, GIS, SQL), and full-stack data science (mining, engineering, wrangling, exploratory analysis, visualization, natural language processing, and machine learning). 
 
@@ -20,8 +20,8 @@ At Cal, I worked with the Division of Computing, Data Science, and Society on ma
 
 My broad interests can be distilled into the three following areas:
 
-1. Data science as a tool for social good 📊
-1. Accessibility in data & computer science 💻
+1. Data science as a tool for social good 
+1. Accessibility in data & computer science 
 1. Information law & policy (privacy, freedom of speech, and freedom of press)
 
 During graduate school, I worked with Dr. Tim Thomas and Dr. Karen Chapple at the [Urban Displacement Project](https://www.urbandisplacement.org/), studying demographic disparities in evictions using natural language processing and statistical techniques. I also interned at [PolicyLink](https://www.policylink.org/) on their [National Equity Atlas](https://www.policylink.org/our-work/economy/national-equity-atlas) project. At the UC Berkeley School of Journalism, I worked on stories for the [Our Better Web](https://citrispolicylab.org/ourbetterweb/) initiative and the [Investigative Reporting Program](https://journalism.berkeley.edu/programs/mj/investigative-reporting/).
@@ -44,7 +44,7 @@ Lastly, if you're interested in applying to graduate school, or speaking with me
 
 ---
 
-## Work Samples 📝
+## Work Samples 
 
 **Potential employers: if you would like to view samples of my political data work at Equis, please contact me.**
 
@@ -89,7 +89,7 @@ The following links are to some projects I'm particularly proud of and have auth
 
 ---
 
-## Teaching 📚
+## Teaching 
 
 ### As instructor
 
